@@ -1,16 +1,12 @@
-<footer class="column span-20" id="footer">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="column span-10" id="credits"><p>© Guru Ram Daas Trust 2014 <a rel="license" href="/copyright">some
-        rights reserved. <img alt="Creative Commons License" style="border-width:0" src="/images/80x15.png"
-                              pagespeed_url_hash="1703085619"/></a></p></div>
+<div class="column span-20" id="footer">
+    <div class="column span-10" id="credits"><p>Copyleft Guru Ram Daas Trust, some
+        rights reserved. <img alt="Creative Commons License" style="border-width:0" src="/images/80x15.png"/></p>
+    </div>
 
     <div class="column span-10" id="footermenu">
         <div class="moduletable">
             <div style='background-color:white;padding:5px;opacity:0.8'>
                 <!-- Begin MailChimp Signup Form -->
-
                 <div id="mc_embed_signup">
                     <form action="http://grdturs.us2.list-manage.com/subscribe/post?u=c9d4ce72aa67ad6fdece57140&amp;id=4b8b0112fe"
                           method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
@@ -28,9 +24,22 @@
             </div>
         </div>
     </div>
-    <div class="wrap">
-        <div class="footer-col-3 column">
-            <p class="text">{{ site.description }}</p>
-        </div>
-    </div>
-</footer>
+</div>
+{% if site.google_analytics_id %}
+<!-- Google Analytics (http://google.com/analytics) -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '{{ site.google_analytics_id }}']);
+    _gaq.push(['_setDomainName', '{{ site.url }}']); // Multiple sub-domains
+    _gaq.push(['_setAllowLinker', true]); // Multiple TLDs
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+{% endif %}

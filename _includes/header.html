@@ -1,17 +1,19 @@
-<header class="site-header">
+<div class="column span-20" id="top-wrapper">
 
-  <div class="wrap">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <div class="trigger">
-        {% for page in site.pages %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endfor %}
-      </div>
-    </nav>
-
-  </div>
-
-</header>
+    <div class="column span-7" id="logo"><a href="/">
+        <img src="/images/logo.png" border="0" alt="Guru Ram Daas Trust Kundalini Yoga logo"
+             class="pngfix"></a>
+    </div>
+    <div class="column span-12" id="mainmenu">
+        <div class="moduletable_menu">
+            <ul class="menu">
+                {% assign sorted_pages = (site.pages | sort: 'order') %}
+                {% for page in sorted_pages %}
+                <li class="parent item1">
+                    <a href="{{ page.url | prepend: site.baseurl }}"><span>{{ page.title }}</span></a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
