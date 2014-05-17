@@ -1,14 +1,17 @@
-google_analytics_id: UA-10876132-1
-
 # Site settings
 title: Guru Ram Daas Trust - Kundalini Yoga in Birmingham and the Midlands
 email: info@grdtrust.org
 description: "Guru Ram Daas Trust - Kundalini Yoga (as taught by Yogi Bhajan) in Birmingham and the Midlands"
 baseurl: ""
 domain: "grdtrust.org"
-permalink: /blog/:title
 url: "http://www.grdtrust.org"
 timezone: Europe/London
+github: jujhars13/grdtrust.org
+google_analytics_id: UA-10876132-1
+
+
 # Build settings
 markdown: kramdown
-permalink: pretty
+markdown_ext:  markdown,md
+
+permalink: /blog/:title
