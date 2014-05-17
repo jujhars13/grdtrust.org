@@ -4,6 +4,7 @@ title: About Us
 permalink: /about/
 order: 1
 ---
+
 Guru Ram Daas Trust runs Kundalini Yoga classes, early morning (amrit Vela) Saadhna sessions, monthly meditations and many other workshops. We are based in Birmingham and run classes all over the West Midlands.
 
 ---
