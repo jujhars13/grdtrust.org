@@ -2,19 +2,69 @@
 layout: default
 ---
 
-<div class="home">
 
-  <h1>Posts</h1>
+<div class="column span-20" id="top-wrapper">
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+    <div class="column span-7" id="logo"><a href="/">
+        <img src="/images/logo.png" border="0" alt="Guru Ram Daas Trust Kundalini Yoga logo"
+             class="pngfix" pagespeed_url_hash="136248596"></a></div>
+    <div class="column span-12" id="mainmenu">
+        <div class="moduletable_menu">
+            <ul class="menu">
+                <li id="current" class="active item1"><a href="http://www.grdtrust.org/"><span>Home</span></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<!-- In Case the requested page is the homepage -->
+
+
+<div class="column span-10" id="frontmod">
+    <div class="moduletable hometext">
+        <p>Guru Ram Daas Trust runs <a href="http://en.wikipedia.org/wiki/Kundalini_yoga">Kundalini Yoga</a>*
+            classes, group <a href='http://www.kundaliniyoga.org.uk/sadhana.html'>sadhana</a>, monthly meditations,
+            teacher training and other fun spiritual sessions. We are based in Birmingham,UK and run classes all
+            over the West Midlands. </p>
+
+        <p><span style='font-size:50%;text-align:right'>*as taught by <a href='http://www.yogibhajan.com/'>Yogi
+            Bhajan &#0174;</a></span></p></div>
+    <div class="moduletable highlights">
+        <ul class="latestnews highlights">
+            <li class="latestnews highlights">
+                <a href="/component/content/article/6-news-highlights/4-early-morning-sadahna"
+                   class="latestnews highlights">
+                    Early Morning Sadahna</a>
+            </li>
+            <li class="latestnews highlights">
+                <a href="/component/content/article/6-news-highlights/6-beginners-kundalini-yoga-classes-birmingham"
+                   class="latestnews highlights">
+                    Join our beginner's Kundalini Yoga classes</a>
+            </li>
+        </ul>
+    </div>
 
 </div>
+
+
+<div class="homeimagetext">
+    <h1>Kundalini Yoga,</h1>
+
+    <div>sadhana,</div>
+    <div>meditation</div>
+    <div>&amp; workshops</div>
+</div>
+
+<h1>Posts</h1>
+
+<ul class="posts">
+    {% for post in site.posts %}
+    <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
