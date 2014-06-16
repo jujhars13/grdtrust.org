@@ -8,14 +8,14 @@ categories: beginners classes
 What | Info
 - | -
 Starting | 10th July 2014, 7pm to 8:30pm
-Where| [Bimringham Bhuddist Centre](http://www.birminghambuddhistcentre.org.uk/), B13 8AB
+Where| [Birmingham Buddhist Centre](http://www.birminghambuddhistcentre.org.uk/), B13 8AB
 Price | £8 per session
 More Info | <a href='mailto:info@grdtrust.org'>info@grdtrust.org</a>, <a href="tel:+447713515189">07713 515 189</a>
 
-<img src='/images/birmingham-bhuddist-centre-kundalini-yoga.jpg' alt='Kundalini Yoga in Birmingham Bhuddist Centre'/>
+<img src='/images/birmingham-bhuddist-centre-kundalini-yoga.jpg' alt='Kundalini Yoga in Birmingham Buddhist Centre'/>
  
 
-A new series of beginner's Kundalini Yoga classes start on Thursday the 10th July 2014 at the lovley [Birmingham Bhuddist Centre](http://www.birminghambuddhistcentre.org.uk/) in [Moseley](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=Birmingham+Buddhist+Centre&cid=2662114995915628224&ei=oRWfU8atCYSlPd3ygYAM&ved=0CIABEPwSMA0&source=newuser-ws)
+A new series of beginner's Kundalini Yoga classes start on Thursday the 10th July 2014 at the lovley [Birmingham Buddhist Centre](http://www.birminghambuddhistcentre.org.uk/) in [Moseley](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=Birmingham+Buddhist+Centre&cid=2662114995915628224&ei=oRWfU8atCYSlPd3ygYAM&ved=0CIABEPwSMA0&source=newuser-ws)
 
 ---
 
