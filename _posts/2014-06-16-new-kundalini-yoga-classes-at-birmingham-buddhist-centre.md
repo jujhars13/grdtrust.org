@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Kundalini Yoga classes in Birmingham, 10th June 2014"
+title:  "New Kundalini Yoga classes in Birmingham, 10th July 2014"
 date:   2014-06-16 22:01:40
 categories: beginners classes
 ---
