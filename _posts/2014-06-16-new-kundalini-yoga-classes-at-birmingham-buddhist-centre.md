@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "New Kundalini Yoga classes in Birmingham, 10th July 2014"
+title:  "Beginners Kundalini Yoga classes in Birmingham, 10th July 2014"
 date:   2014-06-16 22:01:40
 categories: beginners classes
 ---
 
 
-##New KY yoga classes starting in Birmingham on the 10th of July 2014
+##Beginners Yoga in Birmingham on the 10th of July 2014
 
 What | Info
 - | -
