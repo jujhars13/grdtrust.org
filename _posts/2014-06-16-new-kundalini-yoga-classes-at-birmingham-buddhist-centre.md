@@ -28,5 +28,5 @@ This series of classes is designed to be for people new to Yoga or have tried a 
 
 ---
 
-To register for the classes please email: <a href='mailto:info@grdtrust.org'>info@grdtrust.org</a>
+To register for the classes please email: <a href='mailto:info@grdtrust.org?subject=new_bham_yoga_class'>info@grdtrust.org</a>
 
