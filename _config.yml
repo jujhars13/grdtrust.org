@@ -15,3 +15,5 @@ markdown: kramdown
 markdown_ext:  markdown,md
 
 permalink: /blog/:title
+
+exclude: [tmp]
