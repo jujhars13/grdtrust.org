@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "New Kundalini Yoga classes in Birmingham, 10th July 2014"
+title:  "Beginners Kundalini Yoga classes in Moseley, Birmingham"
 date:   2014-06-16 22:01:40
 categories: beginners classes
 ---
 
-
-##New KY yoga classes starting in Birmingham on the 10th of July 2014
+##Beginner's Drop in Yoga in Birmingham
 
 What | Info
 - | -
@@ -18,7 +17,7 @@ More Info | <a href='mailto:info@grdtrust.org'>info@grdtrust.org</a>, <a href="t
 <img src='/images/birmingham-bhuddist-centre-kundalini-yoga.jpg' alt='Kundalini Yoga in Birmingham Buddhist Centre'/>
  
 
-A new series of beginner's Kundalini Yoga classes start on Thursday the 10th July 2014 at the lovely [Birmingham Buddhist Centre](http://www.birminghambuddhistcentre.org.uk/) in [Moseley](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=Birmingham+Buddhist+Centre&cid=2662114995915628224&ei=oRWfU8atCYSlPd3ygYAM&ved=0CIABEPwSMA0&source=newuser-ws)
+A new series of drop in beginner's Kundalini Yoga classes run every Thursday at the lovely [Birmingham Buddhist Centre](http://www.birminghambuddhistcentre.org.uk/) in [Moseley](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=Birmingham+Buddhist+Centre&cid=2662114995915628224&ei=oRWfU8atCYSlPd3ygYAM&ved=0CIABEPwSMA0&source=newuser-ws)
 
 
 Go on a voyage of inner discovery.  Experience the most ancient and comprehensive of all the forms of yoga, [Kundalini Yoga](http://www.kundaliniyoga.org.uk/).
@@ -29,5 +28,5 @@ This series of classes is designed to be for people new to Yoga or have tried a 
 
 ---
 
-To register for the classes please email: <a href='mailto:info@grdtrust.org'>info@grdtrust.org</a>
+To register for the classes please email: <a href='mailto:info@grdtrust.org?subject=new_bham_yoga_class'>info@grdtrust.org</a>
 
