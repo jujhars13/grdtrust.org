@@ -10,7 +10,7 @@ categories: beginners classes
 
 What | Info
 - | -
-Starting | 10th July 2014, 7pm to 8:30pm
+When | Every Thursday, 7pm to 8:30pm
 Where| [Birmingham Buddhist Centre](http://www.birminghambuddhistcentre.org.uk/), B13 8AB
 Price | £8 per session
 More Info | <a href='mailto:info@grdtrust.org'>info@grdtrust.org</a>, <a href="tel:+447713515189">07713 515 189</a>
