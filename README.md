@@ -8,3 +8,12 @@ The website for http://grdtrust.org using:
 - Markdown
 - GruntJS
 - Github pages
+
+### Building
+checkout the `gh-pages` branch
+```bash
+docker run --rm -v $(pwd):/srv/jekyll -p 127.0.0.1:4000:4000 \
+  jekyll/jekyll jekyll build
+  
+  docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll/jekyll
+```
